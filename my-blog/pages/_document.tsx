@@ -4,7 +4,7 @@ export default function Document() {
   const meta = {
     title: 'Portofolio',
     description: 'Agyl portofolios',
-    image: 'https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png',
+    image: 'https://media.licdn.com/dms/image/D5603AQGqva0-dd2lTg/profile-displayphoto-shrink_400_400/0/1702272553355?e=1707955200&v=beta&t=Ga404ZDF3eqIU6xyBuxO7xdmnQLrRCY6iNTw-zMDO8E',
   }
 
   return (
