@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Agyl Restu Hermanto]]></title>
+        <description><![CDATA[Agyl Restu Hermanto]]></description>
+        <link>https://yoursite.com</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 12 Dec 2023 06:51:55 GMT</lastBuildDate>
+        <atom:link href="https://yoursite.com/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cloud Computing Cohort 2023 Batch 2]]></title>
+            <description><![CDATA[Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka]]></description>
+            <link>/posts/pages</link>
+            <guid isPermaLink="true">/posts/pages</guid>
+            <category><![CDATA[study independent]]></category>
+            <dc:creator><![CDATA[Agyl Restu Hermanto]]></dc:creator>
+            <pubDate>Mon, 11 Dec 2023 17:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangkit 2023 batch 2]]></title>
+            <description><![CDATA[Courses during Bangkit 2023 batch 2 as a cloud computing cohort.]]></description>
+            <link>/posts/markdown</link>
+            <guid isPermaLink="true">/posts/markdown</guid>
+            <category><![CDATA[Courses]]></category>
+            <dc:creator><![CDATA[Agyl Restu Hermanto]]></dc:creator>
+            <pubDate>Mon, 11 Dec 2023 17:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
